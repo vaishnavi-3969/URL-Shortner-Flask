@@ -4,7 +4,7 @@ import os.path
 from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
-app.secret_key = 'h432hi5ohi3h5i5hi3o2hi'
+app.secret_key = 'vaishnavikale'
 
 
 @app.route('/')
